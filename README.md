@@ -1,9 +1,12 @@
 # ACM Research Coding Challenge (Spring 2022)
 
-Bradley Mixon
+Bradley Mixon \n
 Freshman, CS major
 
 While I wasn't able to complete a code solution for the challenge, I did spend some time researching the Python language and the various machine learning libraries and APIs compatible with it. I previously hadn't spent much time working with Phython and learning the language well enough to take a shot at this challenge took longer than I had expected. While reasearching I discovered the PANDAS data analysis library. I planned to implement this as the foundation of solution.
+
+
+
 
 
 ## [](https://github.com/ACM-Research/-DRAFT-Coding-Challenge-S22#no-collaboration-policy)No Collaboration Policy
